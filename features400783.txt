@@ -10,7 +10,7 @@
 [General]
 ToolSerialNumber=400783
 UniqueHardwareLinkedToolID=40078300145E849B66
-BaselineName=Centura 300mm
+BaselineName=Centura 500mm
 Licensee=INTEL FAB D1C
 Signature=e6b037b68c029444447ac586a96b52ba5e68a4d8
 [Features]
