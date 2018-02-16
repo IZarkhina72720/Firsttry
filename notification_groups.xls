@@ -1,0 +1,203 @@
+<!--
+        Stylesheet
+-->
+<style>
+table tr td
+{ 
+    text-align: left;
+    vertical-align: top;
+    padding: 5px; 
+}
+.header
+{
+    background-color: #ACA899;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    vertical-align: middle;
+    padding: 10px;
+}
+.even
+{
+    background-color: #eeedeb;
+    vertical-align: top;
+}
+.top
+{
+    vertical-align: top;
+}
+</style>
+
+<table cellspacing="0" cellpadding="2" border="0" class="info">
+    <!--
+            Title
+    -->
+    <tr>
+        <td colspan="6" style="height: 30px; vertical-align: bottom;">
+            <a style="font-size: 14px; font-weight: bold; margin-bottom: 10px;" title="Click to open this page in browser window" href="http://sc-css-web1/css_web/roadmap/library/Details.php?RefID=1445965">Notifictaion Groups</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="height: 30px;" style="vertical-align: bottom;"><strong>Filtered by:</strong></td>
+        <td colspan="6" style="vertical-align: bottom;">
+                            Baseline = *Producer*
+                    </td>
+    </tr>
+    <tr>
+        <td><strong>Sorted by:</strong></td>
+        <td colspan="6">
+                            Baseline Managers DESC
+                    </td>
+    </tr>
+    <tr>
+        <td style="height: 30px;" class="top"><strong>Exported:</strong></td>
+        <td class="top" colspan="6" style="text-align: left;">02/14/18 15:49</td>
+    </tr>
+    
+</table>
+
+<table cellspacing="0" cellpadding="2" border="0">
+    
+    <!-- 
+            Custom header
+    -->
+    
+    <!--
+            Header (column titles)
+    -->
+    <tr>
+                    <td class="header" nowrap="true">
+                Baseline
+            </td>
+                    <td class="header" nowrap="true">
+                Baseline Managers
+            </td>
+                    <td class="header" nowrap="true">
+                GSS
+            </td>
+                    <td class="header" nowrap="true">
+                SSE
+            </td>
+                    <td class="header" nowrap="true">
+                Testers
+            </td>
+                    <td class="header" nowrap="true">
+                Developers
+            </td>
+            </tr>
+        <!--
+            Data
+    -->
+        
+    
+    <tr>
+                <td class='top'>
+                            Producer SE
+                    </td>
+                <td class='top'>
+                            AMAT-CSS-DSM-Managers-ProducerSE-GT
+                    </td>
+                <td class='top'>
+                            AMAT-CSS-DSM-GSS-ProducerSE-GT
+                    </td>
+                <td class='top'>
+                            AMAT-CSS-DSM-SSE
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+            </tr>
+        
+    
+    <tr>
+                <td class='even'>
+                            CMF Producer
+                    </td>
+                <td class='even'>
+                            &nbsp;
+                    </td>
+                <td class='even'>
+                            &nbsp;
+                    </td>
+                <td class='even'>
+                            &nbsp;
+                    </td>
+                <td class='even'>
+                            &nbsp;
+                    </td>
+                <td class='even'>
+                            &nbsp;
+                    </td>
+            </tr>
+        
+    
+    <tr>
+                <td class='top'>
+                            DSM Producer (Legacy)
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+            </tr>
+        
+    
+    <tr>
+                <td class='even'>
+                            Producer Geronimo
+                    </td>
+                <td class='even'>
+                            &nbsp;
+                    </td>
+                <td class='even'>
+                            &nbsp;
+                    </td>
+                <td class='even'>
+                            &nbsp;
+                    </td>
+                <td class='even'>
+                            &nbsp;
+                    </td>
+                <td class='even'>
+                            &nbsp;
+                    </td>
+            </tr>
+        
+    
+    <tr>
+                <td class='top'>
+                            Producer Geronimo Kayak
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+                <td class='top'>
+                            &nbsp;
+                    </td>
+            </tr>
+    
+    
+    </table>

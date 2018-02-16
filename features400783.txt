@@ -1,0 +1,36 @@
+  ;;; DO NOT EDIT! EDITING THIS FILE COULD RENDER THE TOOL INOPERATIVE!
+;;;
+;;;
+;;; For features the line has the following format:
+;;;
+;;; FeatureID=<ExpDate>:<Value>:<Signature>[:<reservedstring>] [; comment]
+;;;
+;;; ExpDate is in YYYYMMDD format
+;;;
+[General]
+ToolSerialNumber=400783
+UniqueHardwareLinkedToolID=40078300145E849B66
+BaselineName=Centura 300mm
+Licensee=INTEL FAB D1C
+Signature=e6b037b68c029444447ac586a96b52ba5e68a4d8
+[Features]
+HDP_IPM_Support_ChA=20340302:1:9A1210AD1490EAF7B85FA9D287078567
+HDP_IPM_Support_ChB=20340302:1:1D8049C9823555D8D702B213B3660156
+RCS.MaxRemoteClients=20340305:2:0B789BB2B15E3C521975713652DD6C12;Intel HDP RCS 1 Client for 4.0 FI
+RCS.RemoteMonitoringEnabled=20340305:1:3B20E23348EFF732866F2F203016D577;RCS for Intel 4.0 FI with FE1 and FE2
+Load Port Purge=20400728:Enabled:D2EE62B7EB09C458D6B7A3EC200759A2;Support for N2 load port purge
+Centura 300mm=20430520:4.3:CA66B3C069F48A91919290A65D8F94C5
+
+[FittnessParameters]
+PowerDownSameIP=20180209:42:CF7437A5AAC395D625D970A70F47241FD9D64D61
+PowerDownDifferentIP=20180209:21:5D0120BB335D5562D943E351F5B6D14E75DB9F31
+GracePeriod=20180209:28:6C89C022EFE8129284B04623FED9FE68B5AA15E9
+
+
+;;; Website VER fawB2.7_12 
+
+
+;;;Applied Materials (R) Feature Signer Ver T1.0_1 build on K78BF207 by MKovler91381 Wed Jun 25 18:29:46 2003
+
+
+;;;Applied Materials (R) Feature Signer Ver B1.1_15 build on CGAVM5 by SCPDDRELEASE Fri Oct 25 11:16:14 2013
